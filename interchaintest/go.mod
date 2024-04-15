@@ -27,7 +27,6 @@ require (
 	github.com/cosmos/ibc-go/v8 v8.1.0
 	github.com/strangelove-ventures/globalfee v0.50.0
 	github.com/strangelove-ventures/interchaintest/v8 v8.1.0
-	github.com/strangelove-ventures/poa v0.50.0
 	github.com/strangelove-ventures/tokenfactory v0.50.0
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.26.0
